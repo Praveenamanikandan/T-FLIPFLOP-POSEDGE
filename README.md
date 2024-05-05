@@ -46,8 +46,7 @@ Step 5: Open in RTL viewers to get RTL diagram output
 RegisterNumber:212223040153
 
 ```
-AYISHA RINSI K
-212223040022
+
 module T_FLIPFLOP( input clk, rst_n, input t,
 output reg q,
 output q_bar
